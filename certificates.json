@@ -13,19 +13,6 @@
     "category": "certificates"
   },
   {
-    "image_url": "https://raw.githubusercontent.com/SriDevWeb/Web_Assets/main/certificates/test001.jpg",
-    "id": "test001",
-    "title": "My first Certificate",
-    "description": "Testing the upload system",
-    "tags": [
-      "test",
-      "bot",
-      "automation"
-    ],
-    "project_link": "https://example.com",
-    "category": "certificates"
-  },
-  {
     "image_url": "https://raw.githubusercontent.com/SriDevWeb/Web_Assets/main/certificates/test002.jpg",
     "id": "test002",
     "title": "My second Certificate",
