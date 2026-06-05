@@ -1,18 +1,5 @@
 [
   {
-    "image_url": "https://raw.githubusercontent.com/SriDevWeb/Web_Assets/main/projects/pro001.jpg",
-    "id": "pro001",
-    "title": "My first project",
-    "description": "Testing the upload system",
-    "tags": [
-      "test",
-      "bot",
-      "automation"
-    ],
-    "project_link": "https://example.com",
-    "category": "projects"
-  },
-  {
     "image_url": "https://raw.githubusercontent.com/SriDevWeb/Web_Assets/main/projects/pro002.jpg",
     "id": "pro002",
     "title": "My second project",
