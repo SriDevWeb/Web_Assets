@@ -37,5 +37,18 @@
     ],
     "project_link": "https://example.com",
     "category": "projects"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/SriDevWeb/Web_Assets/main/projects/pro004.jpg",
+    "id": "pro004",
+    "title": "My fourth project",
+    "description": "Testing the upload system",
+    "tags": [
+      "test",
+      "bot",
+      "automation"
+    ],
+    "project_link": "https://example.com",
+    "category": "projects"
   }
 ]
