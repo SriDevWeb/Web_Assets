@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "image_url": "https://raw.githubusercontent.com/SriDevWeb/Web_Assets/main/certificates/test004.jpg",
+    "id": "test004",
+    "title": "My fourth Certificate",
+    "description": "Testing the upload system",
+    "tags": [
+      "test",
+      "bot",
+      "automation"
+    ],
+    "project_link": "https://example.com",
+    "category": "certificates"
+  }
+]
